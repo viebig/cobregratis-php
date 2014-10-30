@@ -1,0 +1,16 @@
+{
+    "name": "viebig/cobregratis",
+    "description": "PHP Wrapper para a API do Cobre Grátis com suporte a composer",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Guilherme Viebig",
+            "email": "guilherme@bitloom.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+		"files": ["lib/CobreGratis.php"]
+    },
+    "require": {}
+}

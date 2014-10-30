@@ -1,10 +1,16 @@
-# PHP Wrapper para a API do Cobre Grátis
+# PHP Wrapper para a API do Cobre Grátis (adicionado suporte a composer)
 
 Essa biblioteca é um conjunto de classes em PHP para acessar as informações do [Cobre Grátis](http://cobregratis.com.br) através da [API](https://github.com/CobreGratis/cobregratis-api).
 
 Todas as classes são herdadas do PHP ActiveResouce. Veja a documentação do [PHP ActiveResouce](https://github.com/lux/phpactiveresource) para mais informações.
 
 ## Instalando
+
+### Via composer
+
+    composer require "viebig/cobregratis": "dev-master"
+
+### Via git
 
     git clone https://github.com/CobreGratis/cobregratis-php.git
 
@@ -68,3 +74,7 @@ Comentários são bem-vindos. Envie seu feedback através do [issue tracker do G
 Blog: [http://rafael.adm.br](http://rafael.adm.br)
 
 Twitter: [http://twitter.com/rafaelp](http://twitter.com/rafaelp)
+
+## Composer
+
+[**Guilherme Viebig**](http://github.com/viebig) - [BitLoom](http://www.bitloom.net) - [Ponki](http://www.ponki.com.br)
