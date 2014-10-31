@@ -1,6 +1,7 @@
 <?php
 
 namespace Viebig\CobreGratis;
+use \SimpleXMLElement;
 
 /**
  * Basic implementation of the Ruby on Rails ActiveResource REST client.
