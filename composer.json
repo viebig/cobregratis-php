@@ -3,6 +3,7 @@
     "description": "PHP Wrapper para a API do Cobre Grátis com suporte a composer",
     "type": "library",
     "license": "MIT",
+    "version" : "0.1.0",
     "authors": [
         {
             "name": "Guilherme Viebig",
