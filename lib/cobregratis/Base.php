@@ -1,8 +1,8 @@
 <?php
 
-namespace CobreGratis\BankBilletSubscription;
+namespace Viebig\CobreGratis;
 
-use CobreGratis\ActiveResource as ActiveResource
+use Viebig\CobreGratis\ActiveResource as ActiveResource
 
 class Base extends ActiveResource {
   var $site = 'https://app.cobregratis.com.br/';

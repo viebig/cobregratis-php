@@ -1,5 +1,7 @@
 <?php
 
+namespace Viebig\CobreGratis;
+
 /**
  * Basic implementation of the Ruby on Rails ActiveResource REST client.
  * Intended to work with RoR-based REST servers, which all share similar
